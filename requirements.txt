@@ -1,0 +1,4 @@
+Click==7.0
+redis==3.3.8
+sh==1.12.14
+gevent

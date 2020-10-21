@@ -1,0 +1,12 @@
+{
+  "redis": {
+    "password": "PASSWORD",
+    "host": "HOST",
+    "port": 6379,
+    "db": 0,
+    "decode_responses": true
+  },
+  "service": {
+    "services_path": "../"
+  }
+}
